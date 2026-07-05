@@ -151,7 +151,7 @@ Full KDE analysis with rug plots showing individual kernel bumps:
 
 ## Reference
 
-A snapshot of the findings can be found in the : `presentation.pdf.pdf`
+A snapshot of the findings can be found in the : `presentation.pdf`
 
 The full theoretical derivations and simulation results are documented in the
 accompanying project report: `report.pdf`
